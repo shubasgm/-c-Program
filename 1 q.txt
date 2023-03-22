@@ -1,0 +1,12 @@
+#include <stdio.h>
+int main()
+{
+    float x;
+    printf("enter any number=");
+    scanf("%d",&x);
+    {
+        printf("square numbers:%.2f\n",a*a);
+        printf("cubic number is :%3f",a*a*a*);
+    }
+    return 0;
+}
